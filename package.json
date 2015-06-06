@@ -20,7 +20,8 @@
       "atom-lithium:browseReferrences",
       "atom-lithium:showReferrences",
       "atom-lithium:cancel",
-      "atom-lithium:select"
+      "atom-lithium:select",
+      "atom-lithium:myo"
     ]
   },
   "repository": "https://github.com/atom/atom-lithium",
@@ -29,7 +30,11 @@
     "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {
+    "escope": "^3.1.0",
     "esprima": "^2.2.0",
-    "esrefactor": "^0.1.0"
+    "esquery": "^0.4.0",
+    "esrefactor": "^0.1.0",
+    "estraverse": "^4.1.0",
+    "myo": "^1.5.0"
   }
 }

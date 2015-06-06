@@ -5,6 +5,10 @@
       'label': 'atom-lithium parse'
       'command': 'atom-lithium:parse'
     }
+    {
+      'label': 'atom-lithium myo'
+      'command': 'atom-lithium:myo'
+    }
   ]
 'menu': [
   {
@@ -15,6 +19,10 @@
         {
           'label': 'Parse'
           'command': 'atom-lithium:parse'
+        }
+        {
+          'label': 'atom-lithium myo'
+          'command': 'atom-lithium:myo'
         }
       ]
     ]
