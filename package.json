@@ -17,7 +17,8 @@
   "activationCommands": {
     "atom-workspace": [
       "atom-lithium:parse",
-      "atom-lithium:toggle"
+      "atom-lithium:browseReferrences",
+      "atom-lithium:showReferrences"
     ]
   },
   "repository": "https://github.com/atom/atom-lithium",

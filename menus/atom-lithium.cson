@@ -5,10 +5,6 @@
       'label': 'atom-lithium parse'
       'command': 'atom-lithium:parse'
     }
-    {
-      'label': 'atom-lithium toggle'
-      'command': 'atom-lithium:toggle'
-    }
   ]
 'menu': [
   {
@@ -19,10 +15,6 @@
         {
           'label': 'Parse'
           'command': 'atom-lithium:parse'
-        }
-        {
-          'label': 'Toggle'
-          'command': 'atom-lithium:toggle'
         }
       ]
     ]

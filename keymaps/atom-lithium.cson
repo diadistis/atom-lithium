@@ -9,4 +9,5 @@
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 'atom-workspace':
   'ctrl-alt-l': 'atom-lithium:parse'
-  'ctrl-alt-o': 'atom-lithium:toggle'
+  'ctrl-alt-t': 'atom-lithium:browseReferrences'
+  'ctrl-alt-o': 'atom-lithium:showReferrences'
