@@ -10,3 +10,4 @@
 'atom-workspace':
   'ctrl-alt-l': 'atom-lithium:parse'
   'ctrl-alt-o': 'atom-lithium:toggle'
+  'ctrl-alt-j': 'atom-lithium:myo'
