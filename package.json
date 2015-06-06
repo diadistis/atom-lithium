@@ -18,7 +18,9 @@
     "atom-workspace": [
       "atom-lithium:parse",
       "atom-lithium:browseReferrences",
-      "atom-lithium:showReferrences"
+      "atom-lithium:showReferrences",
+      "atom-lithium:cancel",
+      "atom-lithium:select"
     ]
   },
   "repository": "https://github.com/atom/atom-lithium",
