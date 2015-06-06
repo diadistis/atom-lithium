@@ -2,8 +2,8 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Toggle atom-lithium'
-      'command': 'atom-lithium:toggle'
+      'label': 'atom-lithium parse'
+      'command': 'atom-lithium:parse'
     }
   ]
 'menu': [
@@ -13,8 +13,8 @@
       'label': 'atom-lithium'
       'submenu': [
         {
-          'label': 'Toggle'
-          'command': 'atom-lithium:toggle'
+          'label': 'Parse'
+          'command': 'atom-lithium:parse'
         }
       ]
     ]
