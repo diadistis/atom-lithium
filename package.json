@@ -3,10 +3,22 @@
   "main": "./lib/atom-lithium",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
+  "keywords": [],
+  "contributors": [
+    {
+      "name": "diadistis",
+      "email": "bsotirid@gmail.com"
+    },
+    {
+      "name": "mataron",
+      "email": "mataron6@gmail.com"
+    }
   ],
   "activationCommands": {
-    "atom-workspace": ["atom-lithium:parse", "atom-lithium:toggle"]
+    "atom-workspace": [
+      "atom-lithium:parse",
+      "atom-lithium:toggle"
+    ]
   },
   "repository": "https://github.com/atom/atom-lithium",
   "license": "MIT",
@@ -14,5 +26,7 @@
     "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {
+    "esprima": "^2.2.0",
+    "esrefactor": "^0.1.0"
   }
 }
