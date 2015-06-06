@@ -11,5 +11,5 @@
   'ctrl-alt-l': 'atom-lithium:parse'
   'ctrl-alt-t': 'atom-lithium:browseReferrences'
   'ctrl-alt-o': 'atom-lithium:showReferrences'
-  'ctrl-escape': 'atom-lithium:cancel'
-  'ctrl-enter': 'atom-lithium:select'
+  'alt-escape': 'atom-lithium:cancel'
+  'alt-enter': 'atom-lithium:select'
