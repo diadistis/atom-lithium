@@ -31,6 +31,7 @@
     "esprima": "^2.2.0",
     "esquery": "^0.4.0",
     "esrefactor": "^0.1.0",
+    "estraverse": "^4.1.0",
     "myo": "^1.5.0"
   }
 }
