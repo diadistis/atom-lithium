@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-lithium:toggle"
+    "atom-workspace": "atom-lithium:parse"
   },
   "repository": "https://github.com/atom/atom-lithium",
   "license": "MIT",
