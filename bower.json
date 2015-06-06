@@ -1,0 +1,21 @@
+{
+  "name": "atom-lithium",
+  "version": "0.0.1",
+  "homepage": "https://github.com/diadistis/atom-lithium",
+  "authors": [
+    "diadistis <bsotirid@gmail.com>",
+    "mataron <mataron6@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "esprima": "~2.0.0"
+  }
+}
